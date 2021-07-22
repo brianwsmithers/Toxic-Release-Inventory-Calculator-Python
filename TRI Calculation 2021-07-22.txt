@@ -1,0 +1,11 @@
+TRI Calculation Summary
+
+Specific Gravity - 0.5
+Concentration - 0.9
+Pounds/Gal - 3.753
+Threshold - 25000 lbs
+
+10 fl. oz. Aerosol Cans - 85265
+12 fl. oz. Aerosol Cans - 71054
+15 fl. oz. Aerosol Cans - 56843
+U.S. Gallons - 6661
